@@ -1,0 +1,22 @@
+{
+  "ciou": 0.02524762441522708,
+  "auc": 0.511065974383442,
+  "per_instrument": {
+    "clarinet acoustic_guitar": {
+      "ciou": 0.038529678892867285,
+      "auc": 0.5258992412459415
+    },
+    "cello acoustic_guitar": {
+      "ciou": 0.013579951583131817,
+      "auc": 0.5019848134445895
+    },
+    "acoustic_guitar violin": {
+      "ciou": 0.0063098440955439445,
+      "auc": 0.5644987391760727
+    },
+    "xylophone acoustic_guitar": {
+      "ciou": 0.027674586966180127,
+      "auc": 0.43129573088101836
+    }
+  }
+}
